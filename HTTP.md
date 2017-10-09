@@ -31,6 +31,7 @@
 
 ### Response Body
 - [[南郵]簽到題](http://chinalover.sinaapp.com/web1/)
+- [[bugku]Web2](http://120.24.86.145:8002/web2/)
 - [[WTHack]What you see is what you get](http://web.onlinectf.com/be-careful/)
 - [[南郵]層層遞進](http://chinalover.sinaapp.com/web3)
 - [[南郵]單身二十年](http://chinalover.sinaapp.com/web8/)
