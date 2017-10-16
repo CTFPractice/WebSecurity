@@ -14,6 +14,7 @@
 ## CTF練習
 - [[CTFLearn]Where Can My Robot Go?](https://ctflearn.com/index.php?action=find_problem_details&problem_id=107)
 - [[bugku]考細心](http://120.24.86.145:8002/web13/)
+- [[南郵]MYSQL](http://chinalover.sinaapp.com/web11/)
 
 ## 參考資料
 - https://support.google.com/webmasters/answer/6062608?hl=zh-Hant
