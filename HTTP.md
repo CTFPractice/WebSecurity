@@ -17,7 +17,9 @@ After server receive the request message, it maps the file or program to the doc
 ## HTTP Message
 ### Request Message
 - 請求行 Request Line
-```請求方法（request-method） 請求資源（request-URI） HTTP版本（HTTP-version）```
+```
+請求方法（request-method） 請求資源（request-URI） HTTP版本（HTTP-version）
+```
 - 請求標頭 Request Headers
 `request-header-value1, request-header-value2, ...`
 - 斷行字元 CLRF
