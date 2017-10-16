@@ -21,15 +21,21 @@ After server receive the request message, it maps the file or program to the doc
 請求方法（request-method） 請求資源（request-URI） HTTP版本（HTTP-version）
 ```
 - 請求標頭 Request Headers
-`request-header-value1, request-header-value2, ...`
+```
+request-header-value1, request-header-value2, ...
+```
 - 斷行字元 CLRF
 - 內容主體 Request Body
 
 ### Response Message
 - 狀態列 Status Line
-`HTTP版本（HTTP-version） 狀態碼編號（status-code） 狀態碼文字說明（reason-phrase）`
+```
+HTTP版本（HTTP-version） 狀態碼編號（status-code） 狀態碼文字說明（reason-phrase）
+```
 - 回應標頭 Response Headers
-`response-header-value1, response-header-value2, ...`
+```
+response-header-value1, response-header-value2, ...
+```
 - 斷行字元 CLRF
 - 內容主體 Response Body
 
